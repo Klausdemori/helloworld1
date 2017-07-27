@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Simple Page</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div class="title">
+			<h1>Simple Site</h1>
+		</div>
+		<div>
+			<p>Simple web stite, but after some time, i belive create 
+			biger site</p>
+			In futer i want to be a full stack developer.
+			I need to learn:
+			<ol>
+				<li>Design</li>
+				<li>Html</li>
+				<li>css</li>
+				<li>javascritp</li>
+				<li>Jquery, NodleJS</li>
+				<li>DateBases</li>
+				<li>English</li>
+			</ol>
+				
+		</div>
+	</body>
+</html>
